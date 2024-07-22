@@ -1,0 +1,28 @@
+ .button {
+    width: 340px;
+    height: 401px;
+    left: 285px;
+    top: 268px;
+    background: #EEFF86;
+    border-radius: 20px;
+    border: 2px solid #EEFF86;
+    cursor: pointer;
+}
+
+ .button:hover {background-color: #EEFF66}
+
+ .button:active {
+  background-color: #EEFF66;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
+}
+
+.text-title {
+  align-items: center;
+  font-family: 'Arimo';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+
+

@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.buttons-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10%;
+  gap: 32px;
+}
+
+.img-button {
+  top: 268px;
+}
+
+
